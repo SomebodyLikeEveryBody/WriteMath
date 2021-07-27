@@ -198,7 +198,7 @@ function UndoRedoManager(pMathLineInput) {
                                 newMathlineInput.setLatexValue(this.mathLineInput.getLatexValue());
                                 newMathlineInput.focus();
 
-                            this.ctrlIsDown = false;
+//                            this.ctrlIsDown = false;
                         }
                         
                         
